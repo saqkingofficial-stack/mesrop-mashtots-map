@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saqkingofficial-stack.github.io/mesrop-mashtots-map/sitemap.xml
